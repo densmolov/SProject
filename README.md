@@ -7,14 +7,4 @@ SProject
 https://www.youtube.com/watch?v=RCPo5xo_s4k&feature=youtu.be
 (лучше смотреть на 1080р)
 
-Использованы следующие технологии:
-Scala
-Spring
-Hibernate
-MySQL
-Tomcat 7
-JSON
-Maven
-Git
-JQuery/Ajax
-Twitter bootstrap
+Использованы следующие технологии: Scala, Spring, Hibernate, MySQL, Tomcat 7, JSON, Maven, Git, JQuery/Ajax, Twitter bootstrap.

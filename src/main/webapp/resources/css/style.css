@@ -1,0 +1,12 @@
+body {
+	font-family: Segoe UI, Helvetica, Arial, sans-serif;
+}
+
+#mainDiv {
+	width: 100%;
+}
+
+#secondDiv {
+	width: 40%;
+	margin: 50px auto 80px auto;
+}
